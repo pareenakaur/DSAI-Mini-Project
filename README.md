@@ -4,9 +4,14 @@ Dataset = https://www.kaggle.com/datasets/akshay4/road-accidents-incidence
 
 Description of topic and problem:
 
+Problem- How can we accurately predict the severity of traffic accidents (using geographical area, human factors, environmental conditions, vehicle conditions)? How can we effectively lower the severity of traffic accidents?
 
+Motivation for our project stems into three main ideas:
+1. It is a common problem and issue worldwide. Every year, nearly 1.35 million people die in car accidents. Furthermore, such accidents place a huge burden on the economic and healthcare aspect of the country.
+2. Trend of increasing road accidents globally, although proven to decrease during lockdown period where there is constraint of movement.
+3. We can explore ways in which we can mitigate the problem and dive in deeper into ways in which we can reduce the severity or occurence of such accidents. Such examples include speed and environmental conditions.
 
-
+These reasons suggests the importance that this issue holds at hand it why it is a more pressing issue in today's present context. These reasons motivated us to want to try to look further regarding road accidents and to try and reduce the costs and damage done to humans, as well as for the country. 
 
 ## Classification of Variables
 ### Numeric data
