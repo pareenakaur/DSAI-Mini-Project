@@ -8,7 +8,7 @@ Description of topic and problem:
 
 
 ## Classification of Variables
-# Numeric data
+### Numeric data
 - Number of Vehicles
 - Number of Casualties
 - Location Easting OSGR (Null if not known)
@@ -22,7 +22,7 @@ Description of topic and problem:
 - Age of Casualty
 
 
-# Categorical data
+### Categorical data
 - Police Force
 - Accident Severity
 - Local Authority (District)
@@ -72,7 +72,7 @@ Description of topic and problem:
 - Casualty Home Area Type
 
 
-# Others
+### Others
 - Date (DD/MM/YYYY) 
 - Day of Week --> cat
 - Time (HH:MM)
