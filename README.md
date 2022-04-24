@@ -2,14 +2,14 @@
 
 Dataset = https://www.kaggle.com/datasets/akshay4/road-accidents-incidence
 
-# About
+## About
 
 This is a Mini-Project for SC 1015(Introduction to Data Science and Artificial Intelligence) which focuses on Road Accidents Incidence. For detailed walkthrough, please view the source code in order from:
 1. ReadMe file
 2. Numerical
 3. Categorical
 
-# Description of topic and problem:
+## Description of topic and problem
 
 Problem- How can we accurately predict the severity of traffic accidents (using geographical area, human factors, environmental conditions, vehicle conditions)? How can we effectively lower the severity of traffic accidents?
 
@@ -19,6 +19,21 @@ Motivation for our project stems into three main ideas:
 3. We can explore ways in which we can mitigate the problem and dive in deeper into ways in which we can reduce the severity or occurence of such accidents. Such examples include speed and environmental conditions.
 
 These reasons suggests the importance that this issue holds at hand it why it is a more pressing issue in today's present context. These reasons motivated us to want to try to look further regarding road accidents and to try and reduce the costs and damage done to humans, as well as for the country. 
+
+## Models used
+1. Regression model
+
+## Conclusion
+
+1. Resampling imbalanced data using undersampling and oversampling helps imporved model performance 
+2. It is possible to predict severity of traffic accidents and how we can reduce the severity
+3. Using Tree nodes to represent data was not a very good method
+4. There are some factors in which we can look into to mitigate the severity of accidents
+
+## What did we learn from this project?
+1. Handling imbalanced data using imblearn package
+2. collaborating using github
+
 
 ## Classification of Variables
 ### Numeric data
@@ -96,7 +111,7 @@ These reasons suggests the importance that this issue holds at hand it why it is
 - Casualty Reference: Reference of the victim involved
 
 
-References:
+## References:
 
 (2013, October 21). Easting and northing. Retrieved from:
 http://wiki.gis.com/wiki/index.php/Easting_and_northing#:~:text=The%20terms%20easting%20and%20northing%20are%20geographic%20Cartesian,commonly%20measured%20in%20meter%20s%20from%20a%20horizontal%20datum.
@@ -111,7 +126,7 @@ https://data.england.nhs.uk/ncdr/data_element/indices-of-multiple-deprivation-im
 https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
 
 
-Contributions:
+## Contributions:
 
 Sahana: numerical data (EDA and ML, insights), slides, dataset and visualisation, data cleaning
 
