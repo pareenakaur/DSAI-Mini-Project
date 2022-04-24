@@ -36,7 +36,7 @@ We can effectively improve severity of accidents through:
 Data-Related Insights:
 1. Resampling imbalanced data using oversampling helps improve model performance 
 3. Using Tree nodes to represent data may not be appropriate for all types of data
-4. There are some factors in which we can look into to mitigate the severity of accidents, however they are not explicitely shown in the dataset
+4. There are some factors in which we can look into to mitigate the severity of accidents, however they are not explicitly shown in the dataset
 
 ## What did we learn from this project?
 1. Meaningful problem formulation and data selection 
