@@ -44,7 +44,7 @@ Data-Related Insights:
 2. Handling imbalanced data using imblearn package
 3. Implementing different types of new models (Logistic Regression and Random Forest Classifier from sklearn) to provide better comparison between variables
 4. Intepreting 3-by-3 Confusion Matrices
-5. Concepts about Precision, Recall, and Classification Accuracy Scores
+5. Concepts about Precision and Recall
 6. collaborating using github
 
 
