@@ -21,18 +21,29 @@ Motivation for our project stems into three main ideas:
 These reasons suggests the importance that this issue holds at hand it why it is a more pressing issue in today's present context. These reasons motivated us to want to try to look further regarding road accidents and to try and reduce the costs and damage done to humans, as well as for the country. 
 
 ## Models used
-1. Regression model
+1. Linear Regression
+2. Logistic Regression
+3. Random Forest Classifier
 
 ## Conclusion
+Conclusion on main topic:
+We can accurately predict severity of accidents using speed limits, types of junctions and geographical factors(urban or rural area).
+We can effectively improve severity of accidents through:
+1. Implementing Short-term Plans: Having more stringent policies that sets lower speed limits and heftier fines
+2. Implementing Long-term Plans: 
+(a) By having better infrastructure planning to modify and improve the structure of T or staggered junctions and implementing more support structures such as road-side mirrors and surveillance cameras.
+(b) Using education as a tool to educate public on safe speed
 
-1. Resampling imbalanced data using undersampling and oversampling helps imporved model performance 
-2. It is possible to predict severity of traffic accidents and how we can reduce the severity
-3. Using Tree nodes to represent data was not a very good method
-4. There are some factors in which we can look into to mitigate the severity of accidents
+Data-Related Insights:
+1. Resampling imbalanced data using undersampling and oversampling helps improve model performance 
+3. Using Tree nodes to represent data may not be appropriate for all types of data
+4. There are some factors in which we can look into to mitigate the severity of accidents, however they are not explicitely shown in the dataset
 
 ## What did we learn from this project?
-1. Handling imbalanced data using imblearn package
-2. collaborating using github
+1. Meaninful problem formulation and data selection 
+2. Handling imbalanced data using imblearn package
+3. Implementing different types of new models to provide better comparison between variables
+4. collaborating using github
 
 
 ## Classification of Variables
@@ -130,6 +141,6 @@ https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-im
 
 Sahana: numerical data (EDA and ML, insights), slides, dataset and visualisation, data cleaning
 
-Pareena: categorial data regression (EDA and ML, insights), slides, dataset and visualisation, data cleaning
+Pareena: categorial data (EDA and ML, insights), slides, dataset and visualisation, data cleaning
 
 Hillary: categorial data tree (ML, solutions), slides, dataset and visualisation, ReadMe file, video editing
