@@ -132,4 +132,4 @@ Sahana: numerical data (EDA and ML, insights), slides, dataset and visualisation
 
 Pareena: categorial data regression (EDA and ML, insights), slides, dataset and visualisation, data cleaning
 
-Hillary: categorial data tree (ML), slides, dataset and visualisation, ReadMe file, video editing
+Hillary: categorial data tree (ML, solutions), slides, dataset and visualisation, ReadMe file, video editing
