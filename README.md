@@ -102,3 +102,10 @@ https://data.england.nhs.uk/ncdr/data_element/indices-of-multiple-deprivation-im
 
 (2020, July 23). 10 Techniques to deal with Imbalanced Classes in Machine Learning. Retrieved from:
 https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
+
+
+Contributions:
+
+Sahana: numerical data (EDA and ML, insights), slides, dataset and visualisation, data cleaning
+Pareena: categorial data regression (EDA and ML, insights), slides, dataset and visualisation, data cleaning
+Hillary: categorial data tree (ML), slides, dataset and visualisation, ReadMe file, video editing
