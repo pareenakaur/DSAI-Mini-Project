@@ -6,8 +6,8 @@ Dataset = https://www.kaggle.com/datasets/akshay4/road-accidents-incidence
 
 This is a Mini-Project for SC1015(Introduction to Data Science and Artificial Intelligence) which focuses on Road Accidents Incidence. For detailed walkthrough, please view the source code in order from:
 1. ReadMe file
-2. Numerical
-3. Categorical
+2. Numerical Data Analysis & Machine Learning
+3. Categorical Data Analysis & Machine Learning
 
 ## Description of topic and problem
 
@@ -21,9 +21,8 @@ Motivation for our project stems into three main ideas:
 These reasons suggests the importance that this issue holds at hand it why it is a more pressing issue in today's present context. These reasons motivated us to want to try to look further regarding road accidents and to try and reduce the costs and damage done to humans, as well as for the country. 
 
 ## Models used
-1. Linear Regression
-2. Logistic Regression
-3. Random Forest Classifier
+1. Logistic Regression
+2. Random Forest Classifier
 
 ## Conclusion
 Conclusion on main topic:
@@ -35,7 +34,7 @@ We can effectively improve severity of accidents through:
 (b) Using education as a tool to educate public on safe speed
 
 Data-Related Insights:
-1. Resampling imbalanced data using undersampling and oversampling helps improve model performance 
+1. Resampling imbalanced data using oversampling helps improve model performance 
 3. Using Tree nodes to represent data may not be appropriate for all types of data
 4. There are some factors in which we can look into to mitigate the severity of accidents, however they are not explicitely shown in the dataset
 
@@ -45,7 +44,8 @@ Data-Related Insights:
 3. Implementing different types of new models (Logistic Regression and Random Forest Classifier from sklearn) to provide better comparison between variables
 4. Intepreting 3-by-3 Confusion Matrices
 5. Concepts about Precision and Recall
-6. collaborating using github
+6. Collaborating using Github
+7. Connecting our data results to solutions to solve our problem - finding a balance between feasibility and creativity
 
 
 ## Classification of Variables
@@ -143,6 +143,9 @@ Li, S. (2019, February 27). Building a logistic regression in Python, step by st
 Navlani, A. (2018, May 16). Sklearn Random Forest classifiers in python tutorial. DataCamp Community. Retrieved April 24, 2022, from https://www.datacamp.com/community/tutorials/random-forests-classifier-python 
 
 Brownlee, J. (2021, January 4). Random oversampling and undersampling for imbalanced classification. Machine Learning Mastery. Retrieved April 24, 2022, from https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/ 
+
+Ping Shung, K., 2022. Accuracy, Precision, Recall or F1?.  Medium. Retrieved April 24, 2022, from
+<https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9> [Accessed 24 April 2022].
 
 
 ## Contributions:
