@@ -2,7 +2,14 @@
 
 Dataset = https://www.kaggle.com/datasets/akshay4/road-accidents-incidence
 
-Description of topic and problem:
+# About
+
+This is a Mini-Project for SC 1015(Introduction to Data Science and Artificial Intelligence) which focuses on Road Accidents Incidence. For detailed walkthrough, please view the source code in order from:
+1. ReadMe file
+2. Numerical
+3. Categorical
+
+# Description of topic and problem:
 
 Problem- How can we accurately predict the severity of traffic accidents (using geographical area, human factors, environmental conditions, vehicle conditions)? How can we effectively lower the severity of traffic accidents?
 
