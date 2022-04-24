@@ -40,10 +40,12 @@ Data-Related Insights:
 4. There are some factors in which we can look into to mitigate the severity of accidents, however they are not explicitely shown in the dataset
 
 ## What did we learn from this project?
-1. Meaninful problem formulation and data selection 
+1. Meaningful problem formulation and data selection 
 2. Handling imbalanced data using imblearn package
-3. Implementing different types of new models to provide better comparison between variables
-4. collaborating using github
+3. Implementing different types of new models (Logistic Regression and Random Forest Classifier from sklearn) to provide better comparison between variables
+4. Intepreting 3-by-3 Confusion Matrices
+5. Concepts about Precision, Recall, and Classification Accuracy Scores
+6. collaborating using github
 
 
 ## Classification of Variables
@@ -135,6 +137,12 @@ https://data.england.nhs.uk/ncdr/data_element/indices-of-multiple-deprivation-im
 
 (2020, July 23). 10 Techniques to deal with Imbalanced Classes in Machine Learning. Retrieved from:
 https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
+
+Li, S. (2019, February 27). Building a logistic regression in Python, step by step. Medium. Retrieved April 24, 2022, from https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8#:~:text=Logistic%20Regression%20is%20a%20Machine,%2C%20failure%2C%20etc.). 
+
+Navlani, A. (2018, May 16). Sklearn Random Forest classifiers in python tutorial. DataCamp Community. Retrieved April 24, 2022, from https://www.datacamp.com/community/tutorials/random-forests-classifier-python 
+
+Brownlee, J. (2021, January 4). Random oversampling and undersampling for imbalanced classification. Machine Learning Mastery. Retrieved April 24, 2022, from https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/ 
 
 
 ## Contributions:
