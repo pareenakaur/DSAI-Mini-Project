@@ -4,7 +4,7 @@ Dataset = https://www.kaggle.com/datasets/akshay4/road-accidents-incidence
 
 ## About
 
-This is a Mini-Project for SC 1015(Introduction to Data Science and Artificial Intelligence) which focuses on Road Accidents Incidence. For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015(Introduction to Data Science and Artificial Intelligence) which focuses on Road Accidents Incidence. For detailed walkthrough, please view the source code in order from:
 1. ReadMe file
 2. Numerical
 3. Categorical
