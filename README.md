@@ -107,5 +107,7 @@ https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-im
 Contributions:
 
 Sahana: numerical data (EDA and ML, insights), slides, dataset and visualisation, data cleaning
+
 Pareena: categorial data regression (EDA and ML, insights), slides, dataset and visualisation, data cleaning
+
 Hillary: categorial data tree (ML), slides, dataset and visualisation, ReadMe file, video editing
